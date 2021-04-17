@@ -1,6 +1,8 @@
 # front-endDeveloper
 Xyz
- q1.1  App. Component. Html
+ q1.Get value display
+ 1  
+ App. Component. Html
 <H1>get value textbox in angular</H1>
 <input type=”text” #box>
 <button (click)=”get Val(box. Value)” >Get value</button>
@@ -20,7 +22,7 @@ getVal(Val)
 Console.warn(Val)
 }
 
-Q.2
+Q.2 dyanmic allocated nested manner
 1.Button.component.ts
 import { Component, OnInit, ViewEncapsulation, Input } from '@angular/core';
 import { FormGroup } from '@angular/forms';
@@ -69,6 +71,7 @@ export class ButtonComponent implements OnInit {
     loginButton.instance.callFunction = data.callFunction;
   }
 
+Q.3 Making A Form
   1.Form.component.html
 
 
@@ -122,7 +125,8 @@ export class AppComponent {
 
 }
 
-Q.4
+Q.4 Html form show diagram 
+
 Input html file 
 And: coding:
  <!doctype html>
