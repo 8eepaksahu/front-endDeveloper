@@ -1,4 +1,4 @@
-![Screenshot_2021-04-17-18-51-18-02_a927ed2714ba3b9021f681846134c26f](https://user-images.githubusercontent.com/82490151/115117803-fc921700-9fbd-11eb-93aa-b21a144f1ff5.jpg)
+
 
 ![IMG_20210417_204746](https://user-images.githubusercontent.com/82490151/115117862-32cf9680-9fbe-11eb-9031-bf7d31cf7635.jpg)
 # front-endDeveloper
